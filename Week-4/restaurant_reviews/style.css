@@ -1,0 +1,45 @@
+
+
+
+li {
+    display: inline;
+    list-style-type: none;
+    text-decoration: underline;
+    padding-right: 10px;
+}
+
+a {
+    color: blue;
+}
+ul {
+    padding-inline-start: 0px;
+}
+
+
+h2 {
+    color:blue;
+    text-decoration: underline;
+}
+
+img {
+    width: 330px;
+    height:200px;
+}
+
+.contact {
+    font-style: italic;
+}
+
+span {
+    color: blue;
+    text-decoration: underline;
+}
+
+form div {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-right:5px
+}
+
